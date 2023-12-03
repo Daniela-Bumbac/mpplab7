@@ -359,3 +359,10 @@ D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windo
 D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
 D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLite-net.dll
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.batteries_v2.dll
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.nativelibrary.dll
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.core.dll
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pozamainpisici.scale-100.jpg

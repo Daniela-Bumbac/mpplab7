@@ -30,29 +30,29 @@
     <AppXManifest Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-11-25T15:15:38.974</Modified>
+      <Modified>2023-12-03T21:47:27.840</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-11-25T15:15:38.444</Modified>
+      <Modified>2023-12-03T21:47:27.271</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Bumbac_Daniela_Lab7.runtimeconfig.json">
       <PackagePath>Bumbac_Daniela_Lab7.runtimeconfig.json</PackagePath>
-      <Modified>2023-11-25T15:01:02.753</Modified>
+      <Modified>2023-12-03T21:47:26.695</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Bumbac_Daniela_Lab7.dll">
       <PackagePath>Bumbac_Daniela_Lab7.dll</PackagePath>
-      <Modified>2023-11-25T15:15:35.958</Modified>
+      <Modified>2023-12-03T21:47:24.279</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>Bumbac_Daniela_Lab7.exe</PackagePath>
-      <Modified>2023-11-25T15:15:35.983</Modified>
+      <Modified>2023-12-03T21:47:24.311</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Bumbac_Daniela_Lab7.deps.json">
       <PackagePath>Bumbac_Daniela_Lab7.deps.json</PackagePath>
-      <Modified>2023-11-25T15:15:38.033</Modified>
+      <Modified>2023-12-03T21:47:26.511</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\microsoft.netcore.app.runtime.win-x64\6.0.23\runtimes\win-x64\lib\net6.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -1058,6 +1058,26 @@
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.Net.dll</PackagePath>
       <Modified>2022-09-07T21:54:34.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\sqlite-net-pcl\1.8.116\lib\netstandard2.0\SQLite-net.dll">
+      <PackagePath>SQLite-net.dll</PackagePath>
+      <Modified>2021-09-02T21:04:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll">
+      <PackagePath>SQLitePCLRaw.batteries_v2.dll</PackagePath>
+      <Modified>2020-09-03T17:13:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\sqlitepclraw.bundle_green\2.0.4\lib\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll">
+      <PackagePath>SQLitePCLRaw.nativelibrary.dll</PackagePath>
+      <Modified>2020-09-03T17:13:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\sqlitepclraw.core\2.0.4\lib\netstandard2.0\SQLitePCLRaw.core.dll">
+      <PackagePath>SQLitePCLRaw.core.dll</PackagePath>
+      <Modified>2020-09-03T17:13:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\sqlitepclraw.provider.dynamic_cdecl\2.0.4\lib\netstandard2.0\SQLitePCLRaw.provider.dynamic_cdecl.dll">
+      <PackagePath>SQLitePCLRaw.provider.dynamic_cdecl.dll</PackagePath>
+      <Modified>2020-09-03T17:13:18.000</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\microsoft.graphics.win2d\1.0.3.1\runtimes\win10-x64\native\Microsoft.Graphics.Canvas.dll">
       <PackagePath>Microsoft.Graphics.Canvas.dll</PackagePath>
       <Modified>2022-04-28T15:57:10.000</Modified>
@@ -1065,6 +1085,10 @@
     <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\microsoft.windowsappsdk\1.1.5\runtimes\win10-x64\native\Microsoft.WindowsAppRuntime.Bootstrap.dll">
       <PackagePath>Microsoft.WindowsAppRuntime.Bootstrap.dll</PackagePath>
       <Modified>2022-09-07T21:54:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\sqlitepclraw.lib.e_sqlite3\2.0.4\runtimes\win-x64\native\e_sqlite3.dll">
+      <PackagePath>e_sqlite3.dll</PackagePath>
+      <Modified>2020-08-17T14:38:20.000</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Andreea si Daniela\.nuget\packages\microsoft.maui.controls.ref.win\6.0.553\ref\net6.0-windows10.0.19041\Microsoft.Maui.Controls.Compatibility.pri">
       <PackagePath>Microsoft.Maui.Controls.Compatibility.pri</PackagePath>
@@ -1112,207 +1136,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2023-11-25T15:11:14.744</Modified>
+      <Modified>2023-11-25T15:34:33.232</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2023-11-25T15:11:15.071</Modified>
+      <Modified>2023-11-25T15:34:34.143</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2023-11-25T15:11:15.085</Modified>
+      <Modified>2023-11-25T15:34:34.175</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2023-11-25T15:11:15.104</Modified>
+      <Modified>2023-11-25T15:34:34.204</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2023-11-25T15:11:15.131</Modified>
+      <Modified>2023-11-25T15:34:34.251</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2023-11-25T15:11:15.229</Modified>
+      <Modified>2023-11-25T15:34:34.431</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.837</Modified>
+      <Modified>2023-11-25T15:34:33.499</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.840</Modified>
+      <Modified>2023-11-25T15:34:33.508</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.859</Modified>
+      <Modified>2023-11-25T15:34:33.551</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.844</Modified>
+      <Modified>2023-11-25T15:34:33.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.848</Modified>
+      <Modified>2023-11-25T15:34:33.527</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.813</Modified>
+      <Modified>2023-11-25T15:34:33.427</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.816</Modified>
+      <Modified>2023-11-25T15:34:33.435</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.833</Modified>
+      <Modified>2023-11-25T15:34:33.489</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.819</Modified>
+      <Modified>2023-11-25T15:34:33.446</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.823</Modified>
+      <Modified>2023-11-25T15:34:33.456</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.760</Modified>
+      <Modified>2023-11-25T15:34:33.263</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.765</Modified>
+      <Modified>2023-11-25T15:34:33.309</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.770</Modified>
+      <Modified>2023-11-25T15:34:33.323</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.774</Modified>
+      <Modified>2023-11-25T15:34:33.341</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.782</Modified>
+      <Modified>2023-11-25T15:34:33.355</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.787</Modified>
+      <Modified>2023-11-25T15:34:33.365</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.791</Modified>
+      <Modified>2023-11-25T15:34:33.373</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.809</Modified>
+      <Modified>2023-11-25T15:34:33.418</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.796</Modified>
+      <Modified>2023-11-25T15:34:33.383</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.800</Modified>
+      <Modified>2023-11-25T15:34:33.393</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.915</Modified>
+      <Modified>2023-11-25T15:34:33.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.920</Modified>
+      <Modified>2023-11-25T15:34:33.806</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.928</Modified>
+      <Modified>2023-11-25T15:34:33.825</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.938</Modified>
+      <Modified>2023-11-25T15:34:33.852</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.963</Modified>
+      <Modified>2023-11-25T15:34:33.909</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.883</Modified>
+      <Modified>2023-11-25T15:34:33.711</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.887</Modified>
+      <Modified>2023-11-25T15:34:33.721</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.892</Modified>
+      <Modified>2023-11-25T15:34:33.740</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.898</Modified>
+      <Modified>2023-11-25T15:34:33.752</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.909</Modified>
+      <Modified>2023-11-25T15:34:33.776</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.862</Modified>
+      <Modified>2023-11-25T15:34:33.560</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.866</Modified>
+      <Modified>2023-11-25T15:34:33.569</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.870</Modified>
+      <Modified>2023-11-25T15:34:33.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.874</Modified>
+      <Modified>2023-11-25T15:34:33.622</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.880</Modified>
+      <Modified>2023-11-25T15:34:33.650</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.970</Modified>
+      <Modified>2023-11-25T15:34:33.926</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.978</Modified>
+      <Modified>2023-11-25T15:34:33.947</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.988</Modified>
+      <Modified>2023-11-25T15:34:33.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2023-11-25T15:11:15.006</Modified>
+      <Modified>2023-11-25T15:34:34.010</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2023-11-25T15:11:15.057</Modified>
+      <Modified>2023-11-25T15:34:34.114</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.717</Modified>
+      <Modified>2023-11-25T15:34:33.136</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.731</Modified>
+      <Modified>2023-11-25T15:34:33.169</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.747</Modified>
+      <Modified>2023-11-25T15:34:33.212</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.775</Modified>
+      <Modified>2023-11-25T15:34:33.269</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2023-11-25T15:11:14.846</Modified>
+      <Modified>2023-11-25T15:34:33.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pozamainpisici.scale-100.jpg">
+      <PackagePath>pozamainpisici.scale-100.jpg</PackagePath>
+      <Modified>2023-11-25T15:34:24.445</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\shop_list.scale-100.jpg">
       <PackagePath>shop_list.scale-100.jpg</PackagePath>
