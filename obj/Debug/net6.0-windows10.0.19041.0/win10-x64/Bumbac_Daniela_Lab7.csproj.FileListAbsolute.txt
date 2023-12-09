@@ -366,3 +366,5 @@ D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windo
 D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLitePCLRaw.provider.dynamic_cdecl.dll
 D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\e_sqlite3.dll
 D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\obj\Debug\net6.0-windows10.0.19041.0\win10-x64\resizetizer\r\pozamainpisici.scale-100.jpg
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\Newtonsoft.Json.dll
+D:\facultate\medii de programare\lab7\Bumbac_Daniela_Lab7\bin\Debug\net6.0-windows10.0.19041.0\win10-x64\SQLiteNetExtensions.dll
