@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
 using Bumbac_Daniela_Lab7.Models;
+using System.Collections;
 
 namespace Bumbac_Daniela_Lab7.Data
 {
@@ -77,6 +78,11 @@ namespace Bumbac_Daniela_Lab7.Data
             + " inner join ListProduct LP"
             + " on P.ID = LP.ProductID where LP.ShopListID = ?",
             shoplistid);
+        }
+
+        internal Task<IEnumerable> GetShopsAsync()
+        {
+            throw new NotImplementedException();
         }
     }
 }
